@@ -1,0 +1,10 @@
+spring:
+  main:
+    banner-mode: off
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: boot_mongodb
+      username: mongouser
+      password: password
